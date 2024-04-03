@@ -1,0 +1,29 @@
+3/31/2024 4:43:59 PM: Application Started.
+3/31/2024 4:44:03 PM: Menu choice selected: ]1
+3/31/2024 4:44:03 PM: Invalid menu option selected.
+3/31/2024 4:44:04 PM: Menu choice selected: 1
+3/31/2024 4:44:04 PM: File Encoder selected.
+3/31/2024 4:44:06 PM: Menu choice selected: 1
+3/31/2024 4:44:06 PM: File Encoder selected.
+3/31/2024 4:44:08 PM: Menu choice selected: 2
+3/31/2024 4:44:08 PM: File Decoder selected.
+3/31/2024 4:44:09 PM: Menu choice selected: 3
+3/31/2024 4:44:09 PM: Word Count selected.
+3/31/2024 4:44:27 PM: Menu choice selected: 4
+3/31/2024 4:44:27 PM: Application Exiting.
+3/31/2024 4:44:31 PM: Application Started.
+3/31/2024 4:44:32 PM: Menu choice selected: 1
+3/31/2024 4:44:32 PM: File Encoder selected.
+3/31/2024 4:45:33 PM: Menu choice selected: dotnet run
+3/31/2024 4:45:33 PM: Invalid menu option selected.
+3/31/2024 4:45:35 PM: Menu choice selected: 34
+3/31/2024 4:45:35 PM: Invalid menu option selected.
+3/31/2024 4:45:36 PM: Menu choice selected: 4
+3/31/2024 4:45:36 PM: Application Exiting.
+3/31/2024 4:45:45 PM: Encoded '12' to '12'.
+3/31/2024 4:45:58 PM: Exited the application.
+3/31/2024 4:46:06 PM: Encoded 'penis' to 'cravf'.
+3/31/2024 4:46:22 PM: Counted 1 words in input.
+3/31/2024 4:46:25 PM: Exited the application.
+4/1/2024 3:37:57 PM: Encoded 'bro moment' to 'oeb zbzrag'.
+4/1/2024 3:38:14 PM: Exited the application.

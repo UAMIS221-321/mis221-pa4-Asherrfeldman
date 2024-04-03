@@ -1,0 +1,14 @@
+/Users/Asher/Desktop/MIS221/PA4/obj/Debug/net8.0/PA4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Asher/Desktop/MIS221/PA4/obj/Debug/net8.0/PA4.AssemblyInfoInputs.cache
+/Users/Asher/Desktop/MIS221/PA4/obj/Debug/net8.0/PA4.AssemblyInfo.cs
+/Users/Asher/Desktop/MIS221/PA4/obj/Debug/net8.0/PA4.csproj.CoreCompileInputs.cache
+/Users/Asher/Desktop/MIS221/PA4/bin/Debug/net8.0/PA4
+/Users/Asher/Desktop/MIS221/PA4/bin/Debug/net8.0/PA4.deps.json
+/Users/Asher/Desktop/MIS221/PA4/bin/Debug/net8.0/PA4.runtimeconfig.json
+/Users/Asher/Desktop/MIS221/PA4/bin/Debug/net8.0/PA4.dll
+/Users/Asher/Desktop/MIS221/PA4/bin/Debug/net8.0/PA4.pdb
+/Users/Asher/Desktop/MIS221/PA4/obj/Debug/net8.0/PA4.dll
+/Users/Asher/Desktop/MIS221/PA4/obj/Debug/net8.0/refint/PA4.dll
+/Users/Asher/Desktop/MIS221/PA4/obj/Debug/net8.0/PA4.pdb
+/Users/Asher/Desktop/MIS221/PA4/obj/Debug/net8.0/PA4.genruntimeconfig.cache
+/Users/Asher/Desktop/MIS221/PA4/obj/Debug/net8.0/ref/PA4.dll
